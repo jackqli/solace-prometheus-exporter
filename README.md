@@ -62,6 +62,9 @@ https://github.com/SolaceLabs/solace-single-docker-compose
 
 ### Installation
 
+after start, visit the metrics via prometheus endpoint: 
+
+http://localhost:7070/actuator/prometheus
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
